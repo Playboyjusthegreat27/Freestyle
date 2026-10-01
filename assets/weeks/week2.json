@@ -1,0 +1,43 @@
+{
+	"storyName": "Spooky Month",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"creepz",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"north",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"night lights",
+			"monster",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

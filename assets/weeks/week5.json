@@ -1,0 +1,43 @@
+{
+	"storyName": "RED SNOW",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"slurry",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"flurry",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"snowblind",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}
